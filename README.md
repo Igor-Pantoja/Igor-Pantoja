@@ -18,7 +18,7 @@
 All my practical projects are organized here 👇
 
 🔗 **Technical Portfolio (GitHub Organization)**  
-👉 https://github.com/igor-it-portfolio
+👉 [https://github.com/igor-it-portfolio](https://github.com/igor-it-portfolio/Portfolio-overview-Cloud-Infra-Governance-lab)
 
 ---
 
