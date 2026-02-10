@@ -7,8 +7,8 @@
 ---
 
 ## 🧠 What I work with
-- Linux System Administration (hardening, backup, monitoring)
 - Cloud Infrastructure (AWS fundamentals)
+- Linux System Administration (hardening, backup, monitoring)
 - Automation with Shell Scripts
 - Governance, compliance and documentation
 
@@ -23,8 +23,8 @@ All my practical projects are organized here 👇
 ---
 
 ## 📂 Portfolio Structure
-- 🔐 Linux Security & Hardening
 - ☁️ Cloud Infrastructure (AWS)
+- 🔐 Linux Security & Hardening
 - ⚙️ Automation & Scripts
 - 📊 Data Governance Foundations
 
