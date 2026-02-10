@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Igor Pantoja
 
 💻 **Cloud Infrastructure Engineer/Linux & Cloud System Administrator**  
-🔐 Focus on security, automation and infrastructure reliability  
+🔐 Focus infrastructure reliability, automation and security
 📊 Background in **Information & Data Governance**
 
 ---
