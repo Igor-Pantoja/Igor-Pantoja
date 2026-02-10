@@ -31,4 +31,4 @@ All my practical projects are organized here 👇
 ---
 
 📫 **Let’s connect**
-- LinkedIn: (https://www.linkedin.com/in/igor-pantojasystem/)
+- LinkedIn: https://www.linkedin.com/in/igor-pantojacloud-system/
