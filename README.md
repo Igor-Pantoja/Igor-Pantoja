@@ -2,7 +2,7 @@
 
 💻 **Cloud Infrastructure & Data Governance Specialist ☁️🔒**  
 
-🔐 Construindo infraestruturas resilientes e governadas através de código
+🔐 Building resilient and governed infrastructure through code.
 
 📊 Background in **Systemadm, Cloud Engineer & Data Governance**
 
