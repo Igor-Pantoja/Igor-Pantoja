@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Igor Pantoja
 
-💻 **Cloud Infrastructure Engineer/Linux & Cloud System Administrator**  
-🔐 Focus infrastructure reliability, automation and security
-📊 Background in **Information & Data Governance**
+💻 **Cloud Infrastructure & Data Governance Specialist ☁️🔒**  
+🔐 Construindo infraestruturas resilientes e governadas através de código."
+📊 Background in **Systemadm, Cloud Engineer & Data Governance**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Data Governance](https://img.shields.io/badge/Data%20Governance-%23005A9C.svg?style=for-the-badge&logo=data-analytics&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Data Governance](https://img.shields.io/badge/Data%20Governance-%23005A9C.svg?style=for-the-badge&logo=data-analytics&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
-## 🧠 What I work with
-- Cloud Infrastructure (AWS fundamentals)
-- Linux System Administration (hardening, backup, monitoring)
-- Automation with Shell Scripts
-- Governance, compliance and documentation
+### 🛠️ Tech Stack & Tools
+
+- **Cloud & Infrastructure:** AWS (EC2, S3, VPC, IAM, CloudWatch), Terraform, Docker.
+- **Data Governance:** IAM Policies, S3 Lifecycle, LGPD/Compliance, Backup Automation.
+- **Observability:** Grafana, Uptime Kuma, Prometheus.
+- **Automation:** Bash Scripting, Linux Administration (Ubuntu/Debian).
 
 ---
 
