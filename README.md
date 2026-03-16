@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Igor Pantoja
 
 💻 **Cloud Infrastructure & Data Governance Specialist ☁️🔒**  
-🔐 Construindo infraestruturas resilientes e governadas através de código."
+
+🔐 Construindo infraestruturas resilientes e governadas através de código
+
 📊 Background in **Systemadm, Cloud Engineer & Data Governance**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Data Governance](https://img.shields.io/badge/Data%20Governance-%23005A9C.svg?style=for-the-badge&logo=data-analytics&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -26,9 +28,10 @@ All my practical projects are organized here 👇
 
 ## 📂 Portfolio Structure
 - ☁️ Cloud Infrastructure (AWS)
-- 🔐 Linux Security & Hardening
-- ⚙️ Automation & Scripts
 - 📊 Data Governance Foundations
+- ⚙️ Observability
+- 🔐 Linux Security & Hardening
+  
 
 ---
 
