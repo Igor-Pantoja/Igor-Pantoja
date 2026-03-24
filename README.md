@@ -43,16 +43,16 @@ Especialista em Segurança da Informação (Pós-graduado) transicionando 6 anos
 ## 🚀 Specialized Portfolios
 Organized to meet high-level compliance and infrastructure standards:
 
-### 📊 [GRC & Compliance Frameworks](LINK_DA_PASTA_1)
+### 📊 [GRC & Compliance Frameworks](https://github.com/igor-it-portfolio/Portfolio-Cloud-Security-Governance-IAM-Hub/tree/main/GRC%20%26%20Compliance%20Frameworks)
 *Focus: Risk Assessment, ISO 27001, LGPD/GDPR, and Audit-Ready processes.* > Proving my 6+ years of management background applied to digital regulatory standards.
 
-### 🛡️ [IAM Analyst & Cloud Security](LINK_DA_PASTA_2)
+### 🛡️ [IAM Analyst & Cloud Security](https://github.com/igor-it-portfolio/Portfolio-Cloud-Security-Governance-IAM-Hub/tree/main/IAM%20Analyst%20%26%20Cloud%20Security)
 *Focus: Identity Management (IAM), Least Privilege policies, and Data Encryption (KMS).* > Hands-on AWS Security projects using Terraform to build "Zero Trust" access models.
 
-### 👁️ [Security Observability & SRE](LINK_DA_PASTA_3)
+### 👁️ [Security Observability & SRE](https://github.com/igor-it-portfolio/Portfolio-Cloud-Security-Governance-IAM-Hub/tree/main/Security%20Observability%20%26%20SRE)
 *Focus: Real-time monitoring, alerting dashboards, and incident detection.* > Building the "digital watchtower" for system health and security compliance.
 
-### 🔐 [Linux Sec & SystemAdm Hardening](LINK_DA_PASTA_4)
+### 🔐 [Linux Sec & SystemAdm Hardening](https://github.com/igor-it-portfolio/Portfolio-Cloud-Security-Governance-IAM-Hub/tree/main/Linux%20Sec%20%26%20SystemAdm%20Hardening)
 *Focus: Secure server administration, Bash automation, and OS-level security.* > Deep infrastructure foundations and system hardening (CIS Benchmarks).
 
 ---
