@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Igor Pantoja
 
-## 🛡️ **GRC ANALYST | DATA GOVERNANCE | INFORMATION SECURITY** 
+## 🛡️ GRC ANALYST | DATA GOVERNANCE | INFORMATION SECURITY | 
 ![GRC](https://img.shields.io/badge/GRC%20Analyst-%23005A9C.svg?style=for-the-badge&logo=data-analytics&logoColor=white)
 ![Data Governance](https://img.shields.io/badge/Data%20Governance-%23005A9C.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Information Security](https://img.shields.io/badge/Information%20Security-%23E11E1E.svg?style=for-the-badge&logo=securityscorecard&logoColor=white)
