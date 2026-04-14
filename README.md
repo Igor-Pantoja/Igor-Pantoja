@@ -44,16 +44,16 @@ Especialista em GRC e Segurança da Informação com mais de 6 anos de experiên
 ## 🚀 Specialized Portfolios
 Organized to meet high-level compliance and infrastructure standards:
 
-### 📊 [GRC, Privacy & Compliance Frameworks](https://github.com/igor-it-portfolio/Portfolio-Cloud-Security-Governance-IAM-Hub/tree/main/GRC%20%26%20Compliance%20Frameworks)
+### 📊 [GRC, Privacy & Compliance Frameworks](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/1.GRC%2C%20Data%20Governance%20%26%20Privacy)
 *Focus: Risk Assessment, ISO 27001, LGPD/GDPR, and Audit-Ready processes.* > Proving my 6+ years of management background applied to digital regulatory standards.
 
-### 🛡️ [Identity Governance & Cloud Security](https://github.com/igor-it-portfolio/Portfolio-Cloud-Security-Governance-IAM-Hub/tree/main/IAM%20Analyst%20%26%20Cloud%20Security)
+### 🛡️ [Identity Governance & Cloud Security](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/2.Identity%20Governance%20%26%20Cloud%20Security)
 *Focus: Identity Management (IAM), Least Privilege policies, and Data Encryption (KMS).* > Hands-on AWS Security projects using Terraform to build "Zero Trust" access models.
 
-### 👁️ [Compliance Observability & SRE](https://github.com/igor-it-portfolio/Portfolio-Cloud-Security-Governance-IAM-Hub/tree/main/Security%20Observability%20%26%20SRE)
+### 👁️ [Compliance Observability & SRE](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/3.Compliance%20Observability%20%26%20SRE)
 *Focus: Real-time monitoring, alerting dashboards, and incident detection.* > Building the "digital watchtower" for system health and security compliance.(em estudo)
 
-### 🔐 [Secure Infrastructure Hardening](https://github.com/igor-it-portfolio/Portfolio-Cloud-Security-Governance-IAM-Hub/tree/main/Linux%20Sec%20%26%20SystemAdm%20Hardening)
+### 🔐 [Secure Infrastructure Hardening](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/4.Secure%20Infrastructure%20%26%20Hardening)
 *Focus: Secure server administration, Bash automation, and OS-level security.* > Deep infrastructure foundations and system hardening (CIS Benchmarks).
 
 ---
