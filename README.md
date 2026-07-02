@@ -45,19 +45,19 @@ Analista Sênior de Governança de Dados & Privacidade com mais de 6 anos de só
 ## 🚀 Portfolios & Projects
 Organized to demonstrate end-to-end data security, compliance, and analytical standards:
 
-### 📊 [1. GRC, Data Governance & Privacy](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/1.GRC%2C%20Data%20Governance%20%26%20Privacy)
+### 📊 [1. GRC, Data Governance & Privacy](./1.GRC%2C%20Data%20Governance%20%26%20Privacy)
 *Focus: Risk Assessment (ISO 27005), Data Quality, LGPD/GDPR compliance, and ISO 27701 frameworks.*
 > Demonstrating 6+ years of data asset management background applied to digital regulatory standards.
 
-### 🛡️ [2. Identity Governance & Cloud Security](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/2.Identity%20Governance%20%26%20Cloud%20Security)
+### 🛡️ [2. Identity Governance & Cloud Security](./2.Identity%20Governance%20%26%20Cloud%20Security)
 *Focus: Access Control (IAM), Data Encryption (KMS), and Cloud Governance via Terraform.*
 > Hands-on AWS security projects implementing Least Privilege rules to ensure secure data processing.
 
-### 👁️ [3. BI, Metrics & Compliance Dashboards](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/3.Compliance%20Observability%20%26%20SRE)
+### 👁️ [3. BI, Metrics & Compliance Dashboards](./3.Compliance%20Observability%20%26%20SRE)
 *Focus: Risk metrics, auditing reports, and management panels using Business Intelligence (BI).*
 > Building the analytical "watchtower" using data analytics to monitor compliance indicators and corporate security.
 
-### 🔐 [4. Secure Data Infrastructure & Auditing](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/4.Secure%20Infrastructure%20%26%20Hardening)
+### 🔐 [4. Secure Data Infrastructure & Auditing](./4.Secure%20Infrastructure%20%26%20Hardening)
 *Focus: Linux system auditing, secure file systems (ECM/GED), Bash automation, and infrastructure security.*
 > Deep technical foundations focused on system hardening, protecting databases, and secure information assets.
 
