@@ -53,11 +53,11 @@ Organized to demonstrate end-to-end data security, compliance, and analytical st
 *Focus: Access Control (IAM), Data Encryption (KMS), and Cloud Governance via Terraform.*
 > Hands-on AWS security projects implementing Least Privilege rules to ensure secure data processing.
 
-### 👁️ [3. BI, Metrics & Compliance Dashboards](./3.Compliance%20Observability%20%26%20SRE)
+### 👁️ [3. BI, Metrics & Compliance Dashboards](./3.%20BI%2C%20Metrics%20%26%20Compliance%20Dashboards)
 *Focus: Risk metrics, auditing reports, and management panels using Business Intelligence (BI).*
 > Building the analytical "watchtower" using data analytics to monitor compliance indicators and corporate security.
 
-### 🔐 [4. Secure Data Infrastructure & Auditing](./4.Secure%20Infrastructure%20%26%20Hardening)
+### 🔐 [4. Secure Data Infrastructure & Auditing](./4.%20Secure%20Data%20Infrastructure%20%26%20Auditing)
 *Focus: Linux system auditing, secure file systems (ECM/GED), Bash automation, and infrastructure security.*
 > Deep technical foundations focused on system hardening, protecting databases, and secure information assets.
 
