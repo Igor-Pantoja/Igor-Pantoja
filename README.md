@@ -1,36 +1,37 @@
 # 👋 Hi, I'm Igor Pantoja
 
-## 🛡️ GRC ANALYST | DATA GOVERNANCE | INFORMATION SECURITY | 
-![GRC](https://img.shields.io/badge/GRC%20Analyst-%23005A9C.svg?style=for-the-badge&logo=data-analytics&logoColor=white)
+## 🛡️ SENIOR DATA GOVERNANCE & PRIVACY ANALYST | GRC | INFORMATION SECURITY
+
 ![Data Governance](https://img.shields.io/badge/Data%20Governance-%23005A9C.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![GRC](https://img.shields.io/badge/GRC%20Analyst-%23005A9C.svg?style=for-the-badge&logo=data-analytics&logoColor=white)
+![Compliance](https://img.shields.io/badge/Compliance%20(LGPD%2FISO%2027701)-%2332CD32.svg?style=for-the-badge&logo=privado&logoColor=white)
 ![Information Security](https://img.shields.io/badge/Information%20Security-%23E11E1E.svg?style=for-the-badge&logo=securityscorecard&logoColor=white)
-![Compliance](https://img.shields.io/badge/Compliance%20(LGPD%2FISO)-%2332CD32.svg?style=for-the-badge&logo=privado&logoColor=white)
 ![Cloud Technical](https://img.shields.io/badge/Cloud%20Technical%20(AWS)-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### **About Me / Sobre Mim**
 
 **🇺🇸**
-Information Security & GRC Specialist with 6+ years of expertise in high-value asset management. I specialize in **Data Governance** focused on **Compliance** (LGPD/ISO 27001) and **Information Security**. My work bridges the gap between regulatory requirements and technical implementation, using **AWS Cloud** to build secure, auditable, and automated environments.
+Senior Data Governance & Privacy Analyst with 6+ years of solid experience structuring data asset strategies and risk management. I specialize in combining **Data Governance** with **GRC frameworks**, focusing on **Data Protection (LGPD / ISO 27701)** and **Information Security**. My work bridges the gap between compliance regulations, BI/Data Analytics, and **AWS Cloud Governance** to build secure, auditable, and reliable environments.
 
 **🇧🇷**
-Especialista em GRC e Segurança da Informação com mais de 6 anos de experiência em gestão de ativos críticos. Sou focado em **Governança de Dados** com ênfase em **Conformidade** (LGPD/ISO 27001) e **Segurança da Informação**. Meu trabalho une requisitos regulatórios à implementação técnica, utilizando **Nuvem AWS** para construir ambientes seguros, auditáveis e automatizados.
+Analista Sênior de Governança de Dados & Privacidade com mais de 6 anos de sólida experiência na estruturação de estratégias de ativos de dados e gestão de riscos. Sou focado em unir **Governança de Dados** a frameworks de **GRC**, com ênfase em **Proteção de Dados (LGPD / ISO 27701)** e **Segurança da Informação**. Meu trabalho conecta requisitos de conformidade, BI/Data Analytics e **Cloud Governance (AWS)** para construir ambientes seguros, auditáveis e confiáveis.
 
 ---
 
 ### 🎯 **Core Expertise & Technical Stack**
 
-* **GRC & Governance:** Risk Assessment (ISO 27005), Data Lifecycle, and Policy Frameworks.
-* **Compliance:** Auditing-ready environments (ISO 27001 & LGPD/GDPR frameworks).
-* **Information Security:** Data Encryption (KMS), and Zero Trust.
-* **Cloud Technical:** Infrastructure as Code (Terraform), Cloud Security Monitoring & Observability.
-* **Identity & Access (IAM):** Least Privilege Policies, RBAC, AWS KMS (Encryption), MFA.
-* **Automation:** Bash Scripting, Linux Administration & Hardening.
+* **Data Governance & Privacy:** Data Lifecycle, Data Quality, Privacy Management (LGPD/GDPR frameworks & ISO 27701).
+* **GRC & Compliance:** Risk Assessment (ISO 27005), Policy Frameworks, and Auditing-ready environments (ISO 27001).
+* **BI & Data Analytics:** Metric & KPI Dashboards, Data Observability, and Auditing Reports.
+* **Cloud Security & Governance:** AWS Cloud Governance, Infrastructure as Code (Terraform), Monitoring & Observability.
+* **Identity & Access (IAM):** Least Privilege Policies, RBAC, AWS KMS (Encryption), Multi-Factor Authentication (MFA).
+* **Automation & Systems:** Bash Scripting, Linux Administration & Hardening, ECM/GED Systems.
 
 ---
 
-💻 **Cloud Security & GRC Specialist ☁️🔒** <br>
-🔐 **Bridging the gap between Corporate Management and Cloud Security.** <br>
-📊 **Background:** 6+ years in **Critical Asset Management** (Legacy to Cloud) +
+💻 **Senior Data Governance & Privacy Analyst | GRC ☁️🔒** <br>
+🔐 **Bridging the gap between Data Management, GRC, and Cloud Governance.** <br>
+📊 **Background:** 6+ years in **Critical Data Asset Management** (Legacy to Cloud) + BI & Analytics
 
 ---
 
@@ -41,20 +42,24 @@ Especialista em GRC e Segurança da Informação com mais de 6 anos de experiên
 
 ---
 
-## 🚀 Specialized Portfolios
-Organized to meet high-level compliance and infrastructure standards:
+## 🚀 Portfolios & Projects
+Organized to demonstrate end-to-end data security, compliance, and analytical standards:
 
-### 📊 [GRC, Privacy & Compliance Frameworks](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/1.GRC%2C%20Data%20Governance%20%26%20Privacy)
-*Focus: Risk Assessment, ISO 27001, LGPD/GDPR, and Audit-Ready processes.* > Proving my 6+ years of management background applied to digital regulatory standards.
+### 📊 [1. GRC, Data Governance & Privacy](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/1.GRC%2C%20Data%20Governance%20%26%20Privacy)
+*Focus: Risk Assessment (ISO 27005), Data Quality, LGPD/GDPR compliance, and ISO 27701 frameworks.*
+> Demonstrating 6+ years of data asset management background applied to digital regulatory standards.
 
-### 🛡️ [Identity Governance & Cloud Security](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/2.Identity%20Governance%20%26%20Cloud%20Security)
-*Focus: Identity Management (IAM), Least Privilege policies, and Data Encryption (KMS).* > Hands-on AWS Security projects using Terraform to build "Zero Trust" access models.
+### 🛡️ [2. Identity Governance & Cloud Security](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/2.Identity%20Governance%20%26%20Cloud%20Security)
+*Focus: Access Control (IAM), Data Encryption (KMS), and Cloud Governance via Terraform.*
+> Hands-on AWS security projects implementing Least Privilege rules to ensure secure data processing.
 
-### 👁️ [Compliance Observability & SRE](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/3.Compliance%20Observability%20%26%20SRE)
-*Focus: Real-time monitoring, alerting dashboards, and incident detection.* > Building the "digital watchtower" for system health and security compliance.(em estudo)
+### 👁️ [3. Data Observability & Compliance Dashboards](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/3.Compliance%20Observability%20%26%20SRE)
+*Focus: Real-time compliance monitoring, BI dashboards, and risk metrics (In Progress).*
+> Building the "digital watchtower" using data analytics to monitor GRC indicators and system compliance.
 
-### 🔐 [Secure Infrastructure Hardening](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/4.Secure%20Infrastructure%20%26%20Hardening)
-*Focus: Secure server administration, Bash automation, and OS-level security.* > Deep infrastructure foundations and system hardening (CIS Benchmarks).
+### 🔐 [4. Secure Data Infrastructure & Auditing](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/4.Secure%20Infrastructure%20%26%20Hardening)
+*Focus: Linux system auditing, secure file systems (ECM/GED), Bash automation, and log security.*
+> Deep technical foundations focused on system hardening and protecting databases and information assets.
 
 ---
 
@@ -63,4 +68,4 @@ Organized to meet high-level compliance and infrastructure standards:
 - **Email:** [igorsilveira.dev@gmail.com]
 
 - **Igor Pantoja**
-- **Cloud Governance, security, compliance Specialist**
+- **SENIOR DATA GOVERNANCE & PRIVACY ANALYST | GRC | INFORMATION SECURITY*
