@@ -71,7 +71,7 @@ Principais áreas:
 ---
 
 ## 🔗 Central Technical Portfolio
-👉 **[Access my Portfolio Overview here](https://github.com/igor-it-portfolio/Portfolio-overview-Cloud-Infra-Governance-lab)** *(Centralized view of all my governance, security, and cloud infrastructure labs)*
+👉 **[Access my Portfolio Overview here](https://github.com/igor-it-portfolio/Portfolio-overview-Cloud-Infra-Governance-lab)** *(Centralized view of my Data Governance, Data Quality, Privacy, BI Analytics, and Cloud Governance projects.)*
 
 <br>
 
