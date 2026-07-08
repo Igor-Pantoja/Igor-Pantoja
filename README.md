@@ -1,37 +1,72 @@
 # 👋 Hi, I'm Igor Pantoja
 
-## 🛡️ SENIOR DATA GOVERNANCE & PRIVACY ANALYST | GRC | INFORMATION SECURITY
+## 📊 SENIOR DATA GOVERNANCE & PRIVACY ANALYST | DATA QUALITY | BI & ANALYTICS | CLOUD GOVERNANCE
 
 ![Data Governance](https://img.shields.io/badge/Data%20Governance-%23005A9C.svg?style=for-the-badge&logo=databricks&logoColor=white)
-![GRC](https://img.shields.io/badge/GRC%20Analyst-%23005A9C.svg?style=for-the-badge&logo=data-analytics&logoColor=white)
-![Compliance](https://img.shields.io/badge/Compliance%20(LGPD%2FISO%2027701)-%2332CD32.svg?style=for-the-badge&logo=privado&logoColor=white)
-![Information Security](https://img.shields.io/badge/Information%20Security-%23E11E1E.svg?style=for-the-badge&logo=securityscorecard&logoColor=white)
-![Cloud Technical](https://img.shields.io/badge/Cloud%20Technical%20(AWS)-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Data Quality](https://img.shields.io/badge/Data%20Quality-%23005A9C.svg?style=for-the-badge&logo=data-analytics&logoColor=white)
+![Privacy & LGPD](https://img.shields.io/badge/Privacy%20(LGPD%2FISO%2027701)-%2332CD32.svg?style=for-the-badge&logo=privado&logoColor=white)
+![BI & Analytics](https://img.shields.io/badge/BI%20%26%20Analytics-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Cloud Governance](https://img.shields.io/badge/Cloud%20Governance%20(AWS)-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### **About Me / Sobre Mim**
 
 **🇺🇸**
-Senior Data Governance & Privacy Analyst with 6+ years of solid experience structuring data asset strategies and risk management. I specialize in combining **Data Governance** with **GRC frameworks**, focusing on **Data Protection (LGPD / ISO 27701)** and **Information Security**. My work bridges the gap between compliance regulations, BI/Data Analytics, and **AWS Cloud Governance** to build secure, auditable, and reliable environments.
+
+Senior Data Governance & Privacy Analyst focused on building reliable, compliant, and data-driven environments through **Data Governance, Data Quality, Privacy Management, and BI Analytics**.
+
+My expertise includes designing data governance practices, defining data ownership models, improving data quality processes, supporting LGPD compliance initiatives, and transforming data into actionable insights through analytics solutions.
+
+I work with governance frameworks, privacy principles, data quality dimensions, and cloud governance practices to help organizations improve data reliability, transparency, and decision-making.
+
+Core areas:
+
+- Data Governance
+- Data Quality Management
+- Data Privacy & LGPD
+- Data Classification & Metadata Management
+- BI & Analytics
+- Cloud Governance (AWS)
+
+---
 
 **🇧🇷**
-Analista Sênior de Governança de Dados & Privacidade com mais de 6 anos de sólida experiência na estruturação de estratégias de ativos de dados e gestão de riscos. Sou focado em unir **Governança de Dados** a frameworks de **GRC**, com ênfase em **Proteção de Dados (LGPD / ISO 27701)** e **Segurança da Informação**. Meu trabalho conecta requisitos de conformidade, BI/Data Analytics e **Cloud Governance (AWS)** para construir ambientes seguros, auditáveis e confiáveis.
+
+Analista Sênior de Governança de Dados & Privacidade especializado na construção de ambientes de dados confiáveis, seguros e orientados a decisões, atuando com **Governança de Dados, Qualidade de Dados, Privacidade e BI Analytics**.
+
+Minha atuação envolve estruturação de práticas de governança, definição de responsabilidades sobre dados, melhoria de processos de qualidade, apoio a iniciativas de conformidade com a LGPD e transformação de dados em informações estratégicas através de soluções analíticas.
+
+Trabalho com frameworks de governança, princípios de privacidade, dimensões de qualidade de dados e práticas de Cloud Governance para aumentar a confiabilidade, transparência e valor dos dados nas organizações.
+
+Principais áreas:
+
+- Governança de Dados
+- Qualidade de Dados
+- Privacidade de Dados & LGPD
+- Classificação e Metadados
+- BI & Analytics
+- Cloud Governance (AWS)
 
 ---
 
 ### 🎯 **Core Expertise & Technical Stack**
 
-* **Data Governance & Privacy:** Data Lifecycle, Data Quality, Privacy Management (LGPD/GDPR frameworks & ISO 27701).
-* **GRC & Compliance:** Risk Assessment (ISO 27005), Policy Frameworks, and Auditing-ready environments (ISO 27001).
-* **BI & Data Analytics:** Metric & KPI Dashboards, Data Observability, and Auditing Reports.
-* **Cloud Security & Governance:** AWS Cloud Governance, Infrastructure as Code (Terraform), Monitoring & Observability.
-* **Identity & Access (IAM):** Least Privilege Policies, RBAC, AWS KMS (Encryption), Multi-Factor Authentication (MFA).
-* **Automation & Systems:** Bash Scripting, Linux Administration & Hardening, ECM/GED Systems.
+* **Data Governance & Data Management:** Data Governance Frameworks, Data Lifecycle Management, Data Ownership, Data Stewardship, Metadata Management, Data Catalog Concepts, and Governance Operating Models.
+
+* **Data Quality Management:** Data Quality Dimensions (Accuracy, Completeness, Consistency, Timeliness, Validity), Data Profiling, Data Quality Rules, KPIs, Monitoring and Improvement Processes.
+
+* **Data Privacy & Compliance:** LGPD/GDPR Principles, Privacy Governance, Data Classification, Personal Data Mapping, Data Processing Activities, and ISO 27701 Privacy Framework.
+
+* **BI & Data Analytics:** Business Intelligence, KPI Development, Data Visualization, Analytical Dashboards, Data-driven Decision Support, and Reporting Automation.
+
+* **Cloud Governance (AWS):** Data Governance in Cloud Environments, Access Management Concepts, Resource Organization, Security Controls, Monitoring and Compliance Practices.
+
+* **Security & Risk Foundations:** ISO 27001 Concepts, ISO 27005 Risk Management, IAM Principles, RBAC, Least Privilege, Encryption Fundamentals, and Audit Readiness.
 
 ---
 
-💻 **Senior Data Governance & Privacy Analyst | GRC ☁️🔒** <br>
-🔐 **Bridging the gap between Data Management, GRC, and Cloud Governance.** <br>
-📊 **Background:** 6+ years in **Critical Data Asset Management** (Legacy to Cloud) + BI & Analytics
+💻 **Senior Data Governance & Privacy Analyst | Data Quality | BI & Analytics ☁️** <br>
+📊 **Building reliable and trusted data environments through Data Governance, Privacy, Quality Management, and Analytics.** <br>
+🚀 **Background:** 6+ years working with data organization, governance practices, compliance initiatives, and BI-driven insights.
 
 ---
 
@@ -43,29 +78,49 @@ Analista Sênior de Governança de Dados & Privacidade com mais de 6 anos de só
 ---
 
 ## 🚀 Portfolios & Projects
-Organized to demonstrate end-to-end data security, compliance, and analytical standards:
 
-### 📊 [1. GRC, Data Governance & Privacy](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/1.GRC%2C%20Data%20Governance%20%26%20Privacy)
-*Focus: Risk Assessment (ISO 27005), Data Quality, LGPD/GDPR compliance, and ISO 27701 frameworks.*
-> Demonstrating 6+ years of data asset management background applied to digital regulatory standards.
+Organized to demonstrate expertise in **Data Governance, Data Quality, Privacy, Business Intelligence, and Cloud Data Management**.
 
-### 🛡️ [2. Identity Governance & Cloud Security](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/2.Identity%20Governance%20%26%20Cloud%20Security)
-*Focus: Access Control (IAM), Data Encryption (KMS), and Cloud Governance via Terraform.*
-> Hands-on AWS security projects implementing Least Privilege rules to ensure secure data processing.
+---
 
-### 👁️ [3. BI, Metrics & Compliance Dashboards](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/3.BI%2C%20Metrics%20%26%20Compliance%20Dashboards)
-*Focus: Risk metrics, auditing reports, and management panels using Business Intelligence (BI).*
-> Building the analytical "watchtower" using data analytics to monitor compliance indicators and corporate security.
+### 📊 [1. Data Governance & Data Quality](LINK)
 
-### 🔐 [4. Secure Data Infrastructure & Auditing](https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/4.Secure%20Data%20Infrastructure%20%26%20Auditing)
-*Focus: Linux system auditing, secure file systems (ECM/GED), Bash automation, and infrastructure security.*
-> Deep technical foundations focused on system hardening, protecting databases, and secure information assets.
+*Focus: Data Governance Frameworks, Data Ownership, Data Stewardship, Metadata Management, Data Quality Rules, and Data Lifecycle Management.*
+
+> Demonstrating practical approaches to building reliable, consistent, and trusted data environments through governance practices.
+
+---
+
+### 🔐 [2. Data Privacy & LGPD Governance](LINK)
+
+*Focus: Privacy Management, Personal Data Mapping, Data Classification, LGPD/GDPR principles, and ISO 27701 privacy controls.*
+
+> Applying privacy governance practices to improve transparency, compliance, and responsible data usage.
+
+---
+
+### 📈 [3. BI, Analytics & Data Intelligence](LINK)
+
+*Focus: Business Intelligence dashboards, KPI development, data analysis, reporting automation, and data-driven decision support.*
+
+> Transforming data into actionable insights through analytics and visualization solutions.
+
+---
+
+### ☁️ [4. Cloud Data Governance & Security Controls](LINK)
+
+*Focus: AWS Governance, IAM principles, access controls, monitoring, encryption concepts, and cloud compliance practices.*
+
+> Demonstrating how governance principles can be applied to modern cloud-based data environments.
 
 ---
 
 📫 **Let’s connect**
+
 - **LinkedIn:** [https://www.linkedin.com/in/igor-pantojacloud-system/](https://www.linkedin.com/in/igor-pantojacloud-system/)
 - **Email:** [igorsilveira.dev@gmail.com]
 
-- **Igor Pantoja**
-- **SENIOR DATA GOVERNANCE & PRIVACY ANALYST | GRC | INFORMATION SECURITY*
+---
+
+**Igor Pantoja**  
+📊 **Senior Data Governance & Privacy Analyst | Data Quality | BI & Analytics | Cloud Governance**
