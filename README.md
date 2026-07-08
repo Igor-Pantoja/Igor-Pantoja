@@ -117,7 +117,7 @@ Organized to demonstrate expertise in **Data Governance, Data Quality, Privacy, 
 
 📫 **Let’s connect**
 
-- **LinkedIn:** [https://www.linkedin.com/in/igor-pantojacloud-system/](https://www.linkedin.com/in/igor-pantojacloud-system/)
+- **LinkedIn:** [https://www.linkedin.com/in/igor-pantojagrc-govdedados/](https://www.linkedin.com/in/igor-pantojagrc-govdedados/)
 - **Email:** [igorsilveira.dev@gmail.com]
 
 ---
