@@ -79,41 +79,39 @@ Principais áreas:
 
 ## 🚀 Portfolios & Projects
 
-Organized to demonstrate expertise in **Data Governance, Data Quality, Privacy, Business Intelligence, and Cloud Data Management**.
+Organized to demonstrate expertise in **Data Governance, Data Quality, Privacy, Business Intelligence, Cloud Governance, and Technical Foundations**.
 
 ---
 
-### 📊 [1. Data Governance & Data Quality](LINK)
+### 📊 [1. Data Governance & Data Quality](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/1.%20Data%20Governance%2C%20Data%20Quality%20%26%20Metadata)
 
-*Focus: Data Governance Frameworks, Data Ownership, Data Stewardship, Metadata Management, Data Quality Rules, and Data Lifecycle Management.*
+*Focus: Data Governance Frameworks, Data Ownership, Data Stewardship, Data Quality Management, Metadata Management, Data Classification, and Data Lifecycle Governance.*
 
-> Demonstrating practical approaches to building reliable, consistent, and trusted data environments through governance practices.
-
----
-
-### 🔐 [2. Data Privacy & LGPD Governance](LINK)
-
-*Focus: Privacy Management, Personal Data Mapping, Data Classification, LGPD/GDPR principles, and ISO 27701 privacy controls.*
-
-> Applying privacy governance practices to improve transparency, compliance, and responsible data usage.
+> Demonstrating practical approaches to building trusted, reliable, and well-managed data environments through governance practices, quality controls, and responsible data management.
 
 ---
 
-### 📈 [3. BI, Analytics & Data Intelligence](LINK)
+### ☁️ [2. Cloud Governance, IAM & Data Protection](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/2.Cloud%20Governance%2C%20IAM%20%26%20Data%20Protection)
 
-*Focus: Business Intelligence dashboards, KPI development, data analysis, reporting automation, and data-driven decision support.*
+*Focus: Cloud Governance, AWS environments, Identity and Access Management (IAM), Data Protection, Privacy Controls, Compliance Practices, and Secure Cloud Foundations.*
 
-> Transforming data into actionable insights through analytics and visualization solutions.
+> Demonstrating how governance principles, access controls, and security practices can be applied to protect and manage data in modern cloud environments.
+
+---
+
+### 📈 [3. BI, Data Analytics & Governance Insights](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/3.BI%2C%20Data%20Analytics%20%26%20Governance%20Insights)
+
+*Focus: Business Intelligence dashboards, KPI development, data analysis, data visualization, reporting automation, and analytical insights.*
+
+> Transforming data into meaningful insights through analytics solutions, visualization practices, and data-driven decision support.
 
 ---
 
-### ☁️ [4. Cloud Data Governance & Security Controls](LINK)
+### 🛠️ [4. Technical Foundations & Security Controls](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/4Technical%20Foundations%20%26%20Security%20Controls)
 
-*Focus: AWS Governance, IAM principles, access controls, monitoring, encryption concepts, and cloud compliance practices.*
+*Focus: Linux foundations, automation, system monitoring, hardening practices, operational controls, and technical reliability.*
 
-> Demonstrating how governance principles can be applied to modern cloud-based data environments.
-
----
+> Demonstrating the technical foundations required to support secure, reliable, and auditable environments where enterprise data is stored and processed.
 
 📫 **Let’s connect**
 
