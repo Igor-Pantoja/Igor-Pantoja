@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Igor Pantoja
 
-## 📊 SENIOR DATA GOVERNANCE & PRIVACY ANALYST | DATA QUALITY | BI & ANALYTICS | CLOUD GOVERNANCE
+## 📊 DATA GOVERNANCE & PRIVACY ANALYST | DATA QUALITY | BI & ANALYTICS | CLOUD GOVERNANCE | DATA STEWARD
 
 ![Data Governance](https://img.shields.io/badge/Data%20Governance-%23005A9C.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Data Quality](https://img.shields.io/badge/Data%20Quality-%23005A9C.svg?style=for-the-badge&logo=data-analytics&logoColor=white)
@@ -21,6 +21,7 @@ I work with governance frameworks, privacy principles, data quality dimensions, 
 Core areas:
 
 - Data Governance
+- DATA STEWARD
 - Data Quality Management
 - Data Privacy & LGPD
 - Data Classification & Metadata Management
@@ -43,6 +44,7 @@ Principais áreas:
 - Qualidade de Dados
 - Privacidade de Dados & LGPD
 - Classificação e Metadados
+- DATA STEWARD
 - BI & Analytics
 - Cloud Governance (AWS)
 
