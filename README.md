@@ -12,7 +12,7 @@
 
 **🇺🇸**
 
-Senior Data Governance & Privacy Analyst focused on building reliable, compliant, and data-driven environments through **Data Governance, Data Quality, Privacy Management, and BI Analytics**.
+Data Governance & Privacy Analyst focused on building reliable, compliant, and data-driven environments through **Data Governance, Data Quality, Privacy Management, and BI Analytics**.
 
 My expertise includes designing data governance practices, defining data ownership models, improving data quality processes, supporting LGPD compliance initiatives, and transforming data into actionable insights through analytics solutions.
 
@@ -32,7 +32,7 @@ Core areas:
 
 **🇧🇷**
 
-Analista Sênior de Governança de Dados & Privacidade especializado na construção de ambientes de dados confiáveis, seguros e orientados a decisões, atuando com **Governança de Dados, Qualidade de Dados, Privacidade e BI Analytics**.
+Analista de Governança de Dados & Privacidade especializado na construção de ambientes de dados confiáveis, seguros e orientados a decisões, atuando com **Governança de Dados, Qualidade de Dados, Privacidade e BI Analytics**.
 
 Minha atuação envolve estruturação de práticas de governança, definição de responsabilidades sobre dados, melhoria de processos de qualidade, apoio a iniciativas de conformidade com a LGPD e transformação de dados em informações estratégicas através de soluções analíticas.
 
