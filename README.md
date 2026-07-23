@@ -12,12 +12,12 @@
 
 **🇺🇸**
 
-Data Professional specialized in **Data Analytics, Data Quality, and Data Stewardship** with 6+ years of experience managing enterprise data assets. Focused on building reliable, well-structured, and compliant data environments through SQL analysis, quality metrics, data lineage, BI solutions, and governance frameworks (DAMA-DMBOK).
+Data Professional specialized in **Data Governance & Data Stewardship** with 6+ years of experience managing enterprise data assets. Applied expertise in **Data Analytics and Data Quality**, building reliable, well-structured, and compliant data environments through SQL querying, quality metrics, Power BI dashboards, data profiling, and DAMA-DMBOK frameworks.
 
 Core areas:
 
+- Data Stewardship & Operational Governance
 - Data Quality Management (Profiling, Validation Rules & Cleaning)
-- DATA STEWARD & Operational Governance
 - BI & Data Analytics (SQL, Power BI, BigQuery, Python)
 - Data Governance & Metadata Management (DAMA-DMBOK)
 - Data Privacy & LGPD / GDPR
@@ -27,12 +27,12 @@ Core areas:
 
 **🇧🇷**
 
-Profissional de Dados especializado em **Análise e Qualidade de Dados (Data Steward)**, com mais de 6 anos de experiência gerenciando ativos de informação em escala institucional. Atuação focada no desenvolvimento de bases confiáveis através de consultas SQL, validação de regras de qualidade, dashboards em Power BI e práticas de governança (DAMA-DMBOK).
+Profissional de Dados especializado em **Governança de Dados & Data Stewardship**, com mais de 6 anos de experiência gerenciando ativos de informação em escala institucional. Atuação técnica em **Análise e Qualidade de Dados**, desenvolvendo bases confiáveis através de consultas SQL, validação de regras de qualidade, dashboards em Power BI e práticas de governança (DAMA-DMBOK).
 
 Principais áreas:
 
+- Data Stewardship & Governança Operacional
 - Qualidade de Dados & Validação (Profiling e Limpeza de Dados)
-- DATA STEWARD & Governança Operacional
 - BI & Análise de Dados (SQL, Power BI, BigQuery, Python)
 - Governança de Dados & Metadados (DAMA-DMBOK)
 - Privacidade de Dados & LGPD
