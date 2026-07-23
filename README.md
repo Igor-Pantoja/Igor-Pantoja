@@ -74,7 +74,7 @@ Organized to demonstrate practical expertise in **Data Analytics, Data Quality, 
 
 ---
 
-### 📈 [1. BI, Data Analytics & Data Quality Insights](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/3.BI%2C%20Data%20Analytics%20%26%20Governance%20Insights)
+### 📈 [1. BI, Data Analytics & Data Quality Insights](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/1.BI%2C%20Data%20Analytics%20%26%20Data%20Quality%20Insights)
 
 *Focus: Business Intelligence (Power BI), SQL analysis, KPI development, Data Quality Metrics, data visualization, reporting automation, and analytical decision support.*
 
@@ -82,7 +82,7 @@ Organized to demonstrate practical expertise in **Data Analytics, Data Quality, 
 
 ---
 
-### 📊 [2. Data Quality, Stewardship & Governance](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/1.%20Data%20Governance%2C%20Data%20Quality%20%26%20Metadata)
+### 📊 [2. Data Quality, Stewardship & Governance](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/2.%20Data%20Quality%2C%20Stewardship%20%26%20Governance)
 
 *Focus: Data Stewardship, Data Profiling, Quality Rules, Data Ownership, Metadata Management, Data Cataloging, and Data Lifecycle Governance.*
 
@@ -90,7 +90,7 @@ Organized to demonstrate practical expertise in **Data Analytics, Data Quality, 
 
 ---
 
-### ☁️ [3. Cloud Governance, IAM & Data Protection](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/2.Cloud%20Governance%2C%20IAM%20%26%20Data%20Protection)
+### ☁️ [3. Cloud Governance, IAM & Data Protection](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/3.Cloud%20Governance%2C%20IAM%20%26%20Data%20Protection)
 
 *Focus: Cloud Governance, AWS environments (S3, IAM), Identity and Access Management, Privacy Controls (LGPD), Compliance Evidence, and Secure Data Foundations.*
 
@@ -98,7 +98,7 @@ Organized to demonstrate practical expertise in **Data Analytics, Data Quality, 
 
 ---
 
-### 🛠️ [4. Technical Foundations & Automation Controls](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/4Technical%20Foundations%20%26%20Security%20Controls)
+### 🛠️ [4. Technical Foundations & Automation Controls](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/4.Technical%20Foundations%20%26%20Security%20Controls)
 
 *Focus: Linux foundations, Bash scripting, system monitoring, audit logs, Terraform (IaC), and technical reliability.*
 
