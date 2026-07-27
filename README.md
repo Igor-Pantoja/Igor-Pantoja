@@ -80,11 +80,11 @@ Organized to demonstrate practical expertise in **Data Governance (DAMA-DMBOK), 
 
 ---
 
-### 📊 [1. Data Quality, Stewardship & Governance](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/2.%20Data%20Quality%2C%20Stewardship%20%26%20Governance)
+### 🛡️ [1. Data Governance, Data Stewardship & Quality](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/2.%20Data%20Quality%2C%20Stewardship%20%26%20Governance)
 
-*Focus: Data Stewardship, Data Profiling, Quality Rules, Data Ownership, Metadata Management, Data Cataloging, and Data Lifecycle Governance.*
+*Focus: Data Governance Frameworks (DAMA-DMBOK), Data Stewardship Operating Models, Metadata Management, Data Cataloging (Collibra/BigQuery), Data Lineage, Data Profiling, Quality Rules, and LGPD Compliance.*
 
-> Demonstrating practical approaches to building trusted and reliable data environments through data profiling, lineage tracking, metadata management, and DAMA-DMBOK frameworks.
+> **Core Portfolio Project:** Complete implementation of enterprise Data Governance and Stewardship frameworks. Demonstrates hands-on execution of data profiling, business glossaries, lineage tracking, quality dimension monitoring (completeness, accuracy, consistency), and privacy mapping (ROPA) for complex data assets.
 
 ---
 
