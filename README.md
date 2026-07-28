@@ -80,7 +80,7 @@ Organized to demonstrate practical expertise in **Data Governance (DAMA-DMBOK), 
 
 ---
 
-### 🛡️ [1. Data Governance, Data Stewardship & Quality](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/2.%20Data%20Quality%2C%20Stewardship%20%26%20Governance)
+### 🛡️ [1. Data Governance, Data Stewardship & Quality](https://github.com/igor-it-portfolio/Data-Analytics-Data-Quality-Governance-Portfolio/tree/main/1.%20Data%20Governance%2C%20Data%20Stewardship%20%26%20Quality)
 
 *Focus: Data Governance Frameworks (DAMA-DMBOK), Data Stewardship Operating Models, Metadata Management, Data Cataloging (Collibra/BigQuery), Data Lineage, Data Profiling, Quality Rules, and LGPD Compliance.*
 
@@ -88,7 +88,7 @@ Organized to demonstrate practical expertise in **Data Governance (DAMA-DMBOK), 
 
 ---
 
-### ☁️ [2. Cloud Governance, IAM & Data Protection](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/3.Cloud%20Governance%2C%20IAM%20%26%20Data%20Protection)
+### ☁️ [2. Cloud Governance, IAM & Data Protection](https://github.com/igor-it-portfolio/Data-Analytics-Data-Quality-Governance-Portfolio/tree/main/2.Cloud%20Governance%2C%20IAM%20%26%20Data%20Protection)
 
 *Focus: Cloud Governance, AWS environments (S3, IAM), Identity and Access Management, Privacy Controls (LGPD), Compliance Evidence, and Secure Data Foundations.*
 
@@ -96,7 +96,7 @@ Organized to demonstrate practical expertise in **Data Governance (DAMA-DMBOK), 
 
 ---
 
-### 📈 [3. BI, Data Analytics & Data Quality Insights](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/1.BI%2C%20Data%20Analytics%20%26%20Data%20Quality%20Insights)
+### 📈 [3. BI, Data Analytics & Data Quality Insights](https://github.com/igor-it-portfolio/Data-Analytics-Data-Quality-Governance-Portfolio/tree/main/3.BI%2C%20Data%20Analytics%20%26%20Data%20Quality%20Insights)
 
 *Focus: Business Intelligence (Power BI), SQL analysis, KPI development, Data Quality Metrics, data visualization, reporting automation, and analytical decision support.*
 
@@ -104,7 +104,7 @@ Organized to demonstrate practical expertise in **Data Governance (DAMA-DMBOK), 
 
 ---
 
-### 🛠️ [4. Technical Foundations & Automation Controls](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/4.Technical%20Foundations%20%26%20Security%20Controls)
+### 🛠️ [4. Technical Foundations & Automation Controls](https://github.com/igor-it-portfolio/Data-Analytics-Data-Quality-Governance-Portfolio/tree/main/4.Technical%20Foundations%20%26%20Security%20Controls)
 
 *Focus: Linux foundations, Bash scripting, system monitoring, audit logs, Terraform (IaC), and technical reliability.*
 
