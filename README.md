@@ -57,7 +57,7 @@ Trago uma base sólida de **6+ anos em Governança de Dados e Gestão Documental
 
 ## 🔗 Central Security Portfolio
 
-👉 **[Access my Cybersecurity & SOC Portfolio Hub here](https://github.com/Igor-Pantoja)** *(Centralized view of my Blue Team / SOC N1 labs, alert triage, incident response playbooks, Information Security projects, and selected Data Governance & Privacy background.)*
+👉 **[Access my Cybersecurity & SOC Portfolio Hub here](https://github.com/igor-it-portfolio/Cybersecurity-BlueTeam-Portfolio-Hub-Portfolio/tree/main)** *(Centralized view of my Blue Team / SOC N1 labs, alert triage, incident response playbooks, Information Security projects, and selected Data Governance & Privacy background.)*
 
 <br>
 
