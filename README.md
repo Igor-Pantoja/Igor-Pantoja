@@ -1,65 +1,59 @@
 # 👋 Hi, I'm Igor Pantoja
 
-## 🛡️ DATA GOVERNANCE SPECIALIST | DATA STEWARD | DATA QUALITY & PRIVACY (LGPD/GDPR)
+## 🛡️ CYBERSECURITY | BLUE TEAM & SOC (N1) | INFORMATION SECURITY
 
-![Data Governance](https://img.shields.io/badge/Data%20Governance-%23005A9C.svg?style=for-the-badge&logo=dama&logoColor=white)
-![Data Stewardship](https://img.shields.io/badge/Data%20Stewardship-%23003366.svg?style=for-the-badge)
-![Data Quality](https://img.shields.io/badge/Data%20Quality-%23005A9C.svg?style=for-the-badge)
-![Data Privacy](https://img.shields.io/badge/Data%20Privacy%20(LGPD%2FGDPR)-%23008080.svg?style=for-the-badge)
-![Cloud Governance](https://img.shields.io/badge/Cloud%20Governance%20(AWS)-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Blue Team](https://img.shields.io/badge/Blue%20Team-%23003366.svg?style=for-the-badge&logo=shield&logoColor=white)
+![SOC Analyst N1](https://img.shields.io/badge/SOC%20Analyst%20(N1)-%23005A9C.svg?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Information Security](https://img.shields.io/badge/Information%20Security-%231B365D.svg?style=for-the-badge&logo=cyberdefenders&logoColor=white)
+![GRC & Privacy](https://img.shields.io/badge/GRC%20%26%20Privacy%20(LGPD)-%23008080.svg?style=for-the-badge)
+![AWS Security](https://img.shields.io/badge/AWS%20Cloud%20Basics-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### **About Me / Sobre Mim**
 
 **🇺🇸**
 
-Data Professional with 6+ years of experience in **Data Governance & Data Stewardship**, serving as formal custodian for enterprise data assets in a large-scale public university (active academic, administrative, and financial databases since 2020). Focused on information classification, data lifecycle management, data quality monitoring, and regulatory compliance guided by **DAMA-DMBOK** principles.
+Postgraduate in **Information Security**, transitioning my career focus toward **Cybersecurity (Blue Team / SOC N1)** and **Information Security** operations. 
 
-Complementary experience as a remote B2B/PJ consultant structuring an end-to-end Data Governance and Privacy program for an academic research lab (delivered in 9 months). Hands-on knowledge of **Cloud Governance in AWS** and analytics (**SQL, BigQuery, Collibra, Power BI, Python**).
+I bring a solid **6+ years background in Data Governance and Document Management**, having worked on asset classification, access control, regulatory compliance (**LGPD/GDPR**), and data lifecycle in large-scale environments. Currently building practical hands-on labs focused on system monitoring, alert triage, basic incident response, and network traffic analysis.
 
-Core areas:
-- Data Governance & Data Stewardship (DAMA-DMBOK)
-- Data Quality Management (Profiling, Rules & Metrics)
-- Data Privacy & Compliance (LGPD, GDPR, ROPA & Data Mapping)
-- Metadata & Cataloging (Collibra, BigQuery Data Catalog)
-- Cloud Governance & Security (AWS IAM & Audit Logs)
-- BI & Data Analytics (SQL, Power BI, Python)
+**Core Focus & Background:**
+- **Blue Team & SOC (N1):** System Monitoring, Alert Triage, Log Analysis & Initial Incident Response
+- **Information Security:** Asset Protection, Access Control, Vulnerability Basics & Security Policies
+- **GRC & Data Privacy:** Compliance (LGPD/GDPR), Risk Mapping & Information Classification
+- **Cloud & Data Foundation:** AWS IAM Basics, Data Governance & Document Management (**SQL, Power BI**)
 
 ---
 
 **🇧🇷**
 
-Profissional com 6+ anos de experiência em **Governança de Dados & Data Stewardship**, atuando como responsável formal pela governança e custódia de dados em uma universidade pública de grande escala (bases acadêmica, administrativa e financeira ativas desde 2020). Foco em classificação da informação, gestão do ciclo de vida do dado, qualidade e conformidade normativa orientada pelo **DAMA-DMBOK**.
+Pós-graduado em **Segurança da Informação**, direcionando minha carreira para a área de **Cibersegurança (Blue Team / SOC N1)** e **Segurança da Informação**.
 
-Experiência complementar como consultor PJ remoto estruturando *end-to-end* um programa completo de Governança de Dados e Privacidade para um laboratório de pesquisa acadêmica (entregue em 9 meses). Conhecimento prático em **Cloud Governance em AWS** e Análise de Dados (**SQL, BigQuery, Collibra, Power BI, Python**).
+Trago uma base sólida de **6+ anos em Governança de Dados e Gestão Documental**, com experiência em classificação da informação, controle de acessos, conformidade normativa (**LGPD/GDPR**) e gestão de ativos críticos em ambientes de grande porte. Atualmente focado em laboratórios práticos de monitoramento de sistemas, triagem de alertas, resposta inicial a incidentes e análise básica de tráfego de rede.
 
-Principais áreas:
-- Governança de Dados & Data Stewardship (DAMA-DMBOK)
-- Qualidade de Dados (Profiling, Regras de Validação & Indicadores)
-- Privacidade de Dados & LGPD/GDPR (Mapeamento ROPA & Conformidade)
-- Catálogo de Dados & Metadados (Collibra & BigQuery)
-- Cloud Governance & Segurança (AWS IAM & Logs de Auditoria)
-- BI & Análise de Dados (SQL, Power BI, Python)
+**Foco Principal e Bagagem:**
+- **Blue Team & SOC (N1):** Monitoramento de Sistemas, Triagem de Alertas, Análise de Logs e Resposta Inicial a Incidentes
+- **Segurança da Informação:** Proteção de Ativos, Controle de Acessos, Noções de Vulnerabilidades e Políticas de Segurança
+- **GRC & Privacidade de Dados:** Conformidade (LGPD/GDPR), Mapeamento de Riscos e Classificação da Informação
+- **Base em Cloud & Dados:** Fundamentos de AWS IAM, Governança de Dados e Gestão Documental (**SQL, Power BI**)
 
 ---
-### 🎯 **Core Expertise & Technical Stack**
+### 🎯 **Core Focus & Technical Stack**
 
-* **Data Governance & Stewardship:** Data Governance Frameworks (DAMA-DMBOK), Data Stewardship Operating Models, Data Ownership, Data Lifecycle Management, Data Classification, Policy Enforcement, Collibra, and BigQuery Data Catalog.
+- **Blue Team & SOC Operations (N1):** Security Monitoring, Alert Triage, False Positive Analysis, Log Investigation, Initial Incident Response, and Network Traffic Basics (Wireshark).
 
-* **Data Quality & Metadata:** Data Quality Dimensions (Accuracy, Completeness, Consistency, Timeliness, Validity), Data Profiling, Quality Rules & Validation, Metadata Management, Data Lineage, and Business Glossary.
+- **Information Security & Risk:** Access Control (RBAC, Least Privilege), Asset Classification, Vulnerability Awareness, Security Policies, and ISO 27001 / ISO 27005 Concepts.
 
-* **Data Privacy & Compliance:** LGPD / GDPR Compliance, Personal Data Mapping (ROPA), Privacy Governance, Data Processing Documentation, Compliance Audit Readiness, and ISO 27701 Privacy Framework.
+- **GRC & Data Privacy:** LGPD / GDPR Compliance, Personal Data Mapping (ROPA), Privacy Governance, ISO 27701 Framework, and Audit Readiness.
 
-* **Cloud Governance & Security (AWS):** AWS Cloud Governance (S3, IAM), Access Management Controls (RBAC, Least Privilege), CloudWatch Audit Logs, Cloud Security Controls, ISO 27001 Concepts, and ISO 27005 Risk Management.
+- **Cloud Security Basics (AWS):** AWS IAM Access Controls, S3 Security Basics, and CloudWatch Audit Logs.
 
-* **BI & Data Analytics:** SQL, Power BI, Google BigQuery, Python (Pandas), Dimensional Modeling, KPI Development, Analytical Dashboards, Data Profiling Queries, and Reporting Automation.
+- **Analytical Foundation (Prior Background):** Log & Data Querying (**SQL,**), Reporting (**Power BI**), and **6+ years** in Data Governance & Document Management.
 
 ---
 
-💻 **Data Governance Specialist | Data Steward | Data Quality & Privacy (LGPD/GDPR) ☁️** <br>
-📊 **Building reliable, compliant, and trusted data environments through Governance (DAMA-DMBOK), Data Stewardship, Data Quality, and Analytics.** <br>
-🚀 **Background:** 6+ years of experience in Data Governance, Data Stewardship, Data Quality validation, Privacy compliance, Cloud Governance, and BI/Analytics.
-
----
+🛡️ **Information Security Postgraduate | Blue Team & SOC Analyst (N1)** <br>
+🔍 **Focused on security monitoring, alert triage, initial incident response, and protecting organizational assets.** <br>
+🚀 **Background:** 6+ years of analytical foundation in Data Governance, Document Management, Access Control, and Privacy Compliance (LGPD/GDPR).
 
 ## 🔗 Central Technical Portfolio
 
