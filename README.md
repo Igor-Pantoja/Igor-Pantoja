@@ -69,7 +69,7 @@ Organized to demonstrate practical skills in **Blue Team Operations (SOC N1)**, 
 
 ---
 
-## 🛡️ 1. Blue Team & SOC Operations (N1) — *Primary Focus*
+## 🛡️ [1. Blue Team & SOC Operations (N1)](https://github.com/igor-it-portfolio/Cybersecurity-BlueTeam-Portfolio-Hub-Portfolio/tree/main/1%20Blue%20Team%20%26%20SOC%20Operations%20(N1)) — *Primary Focus*
 
 *Focus: System monitoring, alert triage, basic incident response, log analysis, and foundational technical operations (Linux, shell/automation, and network traffic basics).*
 
@@ -77,7 +77,7 @@ Organized to demonstrate practical skills in **Blue Team Operations (SOC N1)**, 
 
 ---
 
-## 🔐 2. Information Security, IAM & Cloud Basics — *General InfoSec*
+## 🔐 [2. Information Security, IAM & Cloud Basics](https://github.com/igor-it-portfolio/Cybersecurity-BlueTeam-Portfolio-Hub-Portfolio/tree/main/2.%20Information%20Security%2C%20IAM%20%26%20Cloud%20Basics) — *General InfoSec*
 
 *Focus: Access control (IAM, RBAC/least privilege), asset protection, security basics, vulnerability awareness, and cloud security foundations (AWS).*
 
@@ -85,7 +85,7 @@ Organized to demonstrate practical skills in **Blue Team Operations (SOC N1)**, 
 
 ---
 
-## 📁 3. GRC, Data Governance & Document Management — *Prior Background*
+## 📁 [3. GRC, Data Governance & Document Management](https://github.com/igor-it-portfolio/Cybersecurity-BlueTeam-Portfolio-Hub-Portfolio/tree/main/3.%20GRC%2C%20Data%20Governance%20%26%20Document%20Management) — *Prior Background*
 
 *Focus: Information classification, LGPD/GDPR privacy compliance, data lifecycle, and 6+ years of background in Data Governance and Document Management.*
 
