@@ -55,65 +55,53 @@ Trago uma base sólida de **6+ anos em Governança de Dados e Gestão Documental
 🔍 **Focused on security monitoring, alert triage, initial incident response, and protecting organizational assets.** <br>
 🚀 **Background:** 6+ years of analytical foundation in Data Governance, Document Management, Access Control, and Privacy Compliance (LGPD/GDPR).
 
-## 🔗 Central Technical Portfolio
+## 🔗 Central Security Portfolio
 
-👉 **[Access my Portfolio Overview here](https://github.com/igor-it-portfolio/Portfolio-overview-Cloud-Infra-Governance-lab)** *(Centralized view of my Data Governance, Data Stewardship, Data Quality, Privacy (LGPD/GDPR), Power BI, and Cloud Governance projects.)*
+👉 **[Access my Cybersecurity & SOC Portfolio Hub here](https://github.com/Igor-Pantoja)** *(Centralized view of my Blue Team / SOC N1 labs, alert triage, incident response playbooks, Information Security projects, and selected Data Governance & Privacy background.)*
 
 <br>
----
-
-## 🚀 Portfolios & Projects
-
-Organized to demonstrate practical expertise in **Data Governance (DAMA-DMBOK), Data Stewardship, Data Quality, Privacy (LGPD/GDPR), Business Intelligence (Power BI/SQL), and Cloud Governance**.
 
 ---
 
 ## 🚀 Portfolios & Projects
 
-Organized to demonstrate practical expertise in **Data Governance (DAMA-DMBOK), Data Stewardship, Data Quality, Privacy (LGPD/GDPR), Business Intelligence (Power BI/SQL), and Cloud Governance**.
+Organized to demonstrate practical skills in **Blue Team Operations (SOC N1)**, **Information Security**, and **GRC / Data Privacy**, supported by a solid analytical foundation in **Data Governance & Document Management**.
 
 ---
 
-### 🛡️ [1. Data Governance, Data Stewardship & Quality](https://github.com/igor-it-portfolio/Data-Analytics-Data-Quality-Governance-Portfolio/tree/main/1.%20Data%20Governance%2C%20Data%20Stewardship%20%26%20Quality)
+## 🛡️ 1. Blue Team & SOC Operations (N1) — *Primary Focus*
 
-*Focus: Data Governance Frameworks (DAMA-DMBOK), Data Stewardship Operating Models, Metadata Management, Data Cataloging (Collibra/BigQuery), Data Lineage, Data Profiling, Quality Rules, and LGPD Compliance.*
+*Focus: System monitoring, alert triage, basic incident response, log analysis, and foundational technical operations (Linux, shell/automation, and network traffic basics).*
 
-> **Core Portfolio Project:** Complete implementation of enterprise Data Governance and Stewardship frameworks. Demonstrates hands-on execution of data profiling, business glossaries, lineage tracking, quality dimension monitoring (completeness, accuracy, consistency), and privacy mapping (ROPA) for complex data assets.
-
----
-
-### ☁️ [2. Cloud Governance, IAM & Data Protection](https://github.com/igor-it-portfolio/Data-Analytics-Data-Quality-Governance-Portfolio/tree/main/2.Cloud%20Governance%2C%20IAM%20%26%20Data%20Protection)
-
-*Focus: Cloud Governance, AWS environments (S3, IAM), Identity and Access Management, Privacy Controls (LGPD), Compliance Evidence, and Secure Data Foundations.*
-
-> Demonstrating how cloud governance, access controls, and security practices are applied to protect, control, and audit enterprise data in modern cloud architectures.
+> Building practical labs and documentation focused on SOC N1 workflows, alert investigation, and operational monitoring—supported by foundational experience with Linux, system logs, and technical routines.
 
 ---
 
-### 📈 [3. BI, Data Analytics & Data Quality Insights](https://github.com/igor-it-portfolio/Data-Analytics-Data-Quality-Governance-Portfolio/tree/main/3.BI%2C%20Data%20Analytics%20%26%20Data%20Quality%20Insights)
+## 🔐 2. Information Security, IAM & Cloud Basics — *General InfoSec*
 
-*Focus: Business Intelligence (Power BI), SQL analysis, KPI development, Data Quality Metrics, data visualization, reporting automation, and analytical decision support.*
+*Focus: Access control (IAM, RBAC/least privilege), asset protection, security basics, vulnerability awareness, and cloud security foundations (AWS).*
 
-> Transforming raw data into reliable, high-quality insights through advanced SQL queries, interactive Power BI dashboards, and data validation rules.
+> Leverages prior practical experience with AWS access controls, audit trails, and security fundamentals while expanding into general Information Security and defensive practices.
 
 ---
 
-### 🛠️ [4. Technical Foundations & Automation Controls](https://github.com/igor-it-portfolio/Data-Analytics-Data-Quality-Governance-Portfolio/tree/main/4.Technical%20Foundations%20%26%20Security%20Controls)
+## 📁 3. GRC, Data Governance & Document Management — *Prior Background*
 
-*Focus: Linux foundations, Bash scripting, system monitoring, audit logs, Terraform (IaC), and technical reliability.*
+*Focus: Information classification, LGPD/GDPR privacy compliance, data lifecycle, and 6+ years of background in Data Governance and Document Management.*
 
-> Demonstrating technical foundations and automation practices required to maintain secure, scalable, and auditable infrastructure for data processing.
+> Selected reference from my previous career track—kept as supporting background rather than the main focus, showing familiarity with compliance, policies, and protecting sensitive information. *(Detailed BI/Power BI dashboards remain archived in legacy history).*
 
+---
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/igor-pantojadados](https://www.linkedin.com/in/igor-pantojadados/)
 - **GitHub:** [github.com/Igor-Pantoja](https://github.com/Igor-Pantoja)
 - **Email:** [igorsilveira.dev@gmail.com](mailto:igorsilveira.dev@gmail.com)
-- **Availability:** Open for Remote Opportunities (PJ / B2B Contractor — Brazil & International)
+- **Availability:** Open for Entry-Level / Junior Opportunities in Cybersecurity (SOC N1 / Information Security — Remote or Hybrid)
 
 ---
 
 **Igor Pantoja**  
-*Data Governance Specialist | Data Steward | Data Quality & Privacy (LGPD/GDPR)*
+*Information Security Postgraduate | Blue Team & SOC Analyst (N1) | GRC & Data Governance Background*
 ---
 
